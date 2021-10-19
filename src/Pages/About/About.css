@@ -1,0 +1,14 @@
+body {
+    overflow-x: hidden;
+}
+
+.about {
+    padding: 0 20px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.about-img img {
+    width: 100%;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Bronchoscopy",
+    "image": "https://i.ibb.co/p1QnSNQ/img1.jpg",
+    "price": 300,
+    "dec": "German laryngologist Gustav Killian performed the first bronchoscopy by using rigid bronchoscopy to remove a pork bone from a patient’s airway in 1897 [1]. The procedure was performed while the patient was awake and cocaine was utilized as a local anesthetic. Nowadays, endoscopy techniques have developed into an approach which can effectively detect and localize critical early pathological changes occurring in the bronchial epithelium and subepithelial regions of human bodies [2]. Bronchoscopies including autofluorescence bronchoscopy, optical fluorescence and reflectance spectroscopy, high-magnification"
+  },
+  {
+    "id": 2,
+    "title": "Parathyroid scan",
+    "image": "https://i.ibb.co/LnnYMs9/img2.png",
+    "price": 100,
+    "dec": "Technetium nuclear scintigraphy (TS) is the most popular procedure to localize abnormal parathyroid glands in patients with primary hyperparathyroidism (PHPT). The two radio-pharmaceuticals used are 99mTc-Sestamibi and 99mTc-Tetrofosmin. Despite its limitations and variable accuracy TS along with pre-operative ultrasound has an established role in centers which perform large volume parathyroid surgery (1, 2). However there are technical and biological factors that affect the uptake of the 99mTc in the parathyroid adenoma and potentially affect the sensitivity and specificity of scan. We present a patient with PHPT whose initially negative scan converted to a positive scan five years later. We then review published data about the biological and technical factors that could possibly lead to such conversion."
+  },
+  {
+    "id": 3,
+    "title": "Orthotics",
+    "image": "https://i.ibb.co/Zm2jJ40/img3.jpg",
+    "price": 150,
+    "dec": "Prosthetics and orthotics journal publishes scientific content related to medical and clinical experimental studies of new devices, biomechanics, orthotic and prosthetic prescription, design and fabrication techniques including patient management experiences. Articles related to amputation surgery, biomedical engineering, ethics, gait analysis, orthopedic research, physical therapy, orthopedic surgery, physical medicine etc., are given importance for publication. The journal provides a platform for all researchers to share and gain knowledge of their innovative inventions and discoveries related to prosthetics and orthotics. All manuscripts submitted to the journal will undergo strict peer-review process before publishing.The journal covers several key aspects in this field by including research on topics like Prosthetics, Orthotics, Craniofacial prostheses, Dental prostheses, Somato prostheses, Upper-extremity prostheses, Lower-extremity prostheses."
+  },
+  {
+    "id": 4,
+    "title": "Mammography",
+    "image": "https://i.ibb.co/64PG36W/img4.jpg",
+    "price": 500,
+    "dec": "Breast cancer is the second most common cancer in women, after skin cancer, and represents 14% of all new cancers in the United States.[1] Breast cancer is most commonly diagnosed in women aged 55 to 64 years, and the risk increases with age.[2] Early diagnosis increases the chances that a patient may achieve a cure and also reduces the morbidity of the treatments. Breast cancer therapies continue to improve and have contributed to mortality reduction, but early diagnosis through mammographic screening has had a greater overall impact on mortality reductions.[3] The American College of Radiology recommends breast cancer screening for all average-risk women starting at the age of 40.[4] The diagnosis of breast cancer can be suggested by many different modalities, most commonly mammography, breast ultrasound, and magnetic resonance imaging (MRI)."
+  },
+  {
+    "id": 5,
+    "title": "Head CT",
+    "image": "https://i.ibb.co/8dv7c2L/img5.jpg",
+    "price": 330,
+    "dec": "Computed tomography (CT) of the head uses special x-ray equipment to help assess head injuries, severe headaches, dizziness, and other symptoms of aneurysm, bleeding, stroke, and brain tumors. It also helps your doctor to evaluate your face, sinuses, and skull or to plan radiation therapy for brain cancer. In emergency cases, it can reveal internal injuries and bleeding quickly enough to help save lives. Tell your doctor if there's a possibility you are pregnant. Discuss any recent illnesses, medical conditions, medications you're taking, and allergies. If your exam needs intravenous contrast, your doctor may tell you not to eat or drink anything for a few hours beforehand. If you have a known allergy to contrast material, your doctor may prescribe medications to reduce the risk of an allergic reaction. Leave jewelry at home and wear loose, comfortable clothing. You may need to change into a gown for the procedure"
+  },
+  {
+    "id": 6,
+    "title": "Captopril Renography",
+    "image": "https://i.ibb.co/mD4Vynz/img6.jpg",
+    "price": 330,
+    "dec": "This article describes the methods and the interpretation of captopril renography. The essentials of the methods are the discontinuation of diuretics, the refraining from solid foods before administration of 25 mg captopril, hydration to induce diuresis, the performing of 1-min sequential images, data acquisition with frame time not exceeding 30 sec, and the calculation of the left to right ratio. In most instances data from captopril renography can be interpreted without the presence of a baseline study. Abnormalities of the sequential images and the renal curves classified as grade 2 and 3 indicate the presence of renal artery stenosis. Besides, in unilateral stenosis, captopril induced renographic abnormality can also be observed in bilateral and segmental stenosis. Interpretation based on numeric parameters probably does not increase the sensitivity. Alterations on mercaptoacetyltriglycine (MAG3) studies are identical to the alterations observed on"
+  }
+]

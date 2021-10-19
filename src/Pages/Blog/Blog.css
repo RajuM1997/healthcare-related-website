@@ -1,0 +1,15 @@
+body {
+    overflow-x: hidden;
+}
+
+.news {
+    border: none !important;
+}
+
+.news:hover {
+    border: none !important;
+}
+
+.blog {
+    border: 1px solid red;
+}

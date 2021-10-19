@@ -1,0 +1,35 @@
+body {
+    overflow-x: hidden;
+}
+
+.navber {
+    background: rgba(89, 0, 255, 0.897) !important;
+}
+
+.navber a {
+    color: #fff;
+}
+
+.login-or-signup .login-btn {
+    background: rgb(5, 133, 253);
+    padding: 8px 25px;
+    margin-right: 8px;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    outline: none;
+    transition: all 0.5s;
+
+}
+
+.login-or-signup .login-btn:hover {
+    background: rgb(5, 30, 253);
+}
+
+.user-img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: contain;
+}

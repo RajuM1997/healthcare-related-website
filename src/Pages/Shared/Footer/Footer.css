@@ -1,0 +1,60 @@
+body {
+    overflow-x: hidden;
+}
+
+.footer {
+    background: #000;
+}
+
+.hospital-about {
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.hospital-about h3 {
+    font-size: 25px;
+}
+
+.hospital-about p {
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 1px;
+}
+
+.useful-link {
+    margin-left: 20px;
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.useful-link h3 {
+    font-size: 25px;
+}
+
+.useful-link ul li {
+    list-style: none;
+    text-align: justify;
+    padding-bottom: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.useful-link ul li:hover {
+    color: lightyellow;
+    list-style: square;
+    transform: translateX(10px);
+}
+
+.contact {
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon .fab {
+    margin-right: 10px;
+    font-size: 26px;
+    color: rgba(252, 232, 232, 0.842);
+}

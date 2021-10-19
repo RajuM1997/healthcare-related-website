@@ -1,0 +1,31 @@
+body {
+    overflow-x: hidden;
+}
+
+.banner {
+    background-image: url('https://images.unsplash.com/photo-1628719749669-44015c344fbe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1033&q=80'),
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 100vh;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-title {
+    height: 500px;
+    color: rgb(18, 238, 238);
+}
+
+.btn button {
+    background: rgb(4, 194, 200);
+    padding: 10px 45px;
+    border: none;
+    outline: none;
+    color: #000;
+    font-weight: 500;
+    border-radius: 5px;
+
+}
