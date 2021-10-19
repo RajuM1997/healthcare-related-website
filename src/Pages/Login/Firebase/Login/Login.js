@@ -40,8 +40,8 @@ const Login = () => {
   return (
     <>
       <Container className="py-5 login">
+        <h5 className="pb-5">{error}</h5>
         <Row>
-          <h1>{error}</h1>
           <Col md={5}>
             <Form onSubmit={signInWithEmail}>
               <Form.Group className="mb-3" controlId="formBasicEmail">

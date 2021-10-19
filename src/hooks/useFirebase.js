@@ -67,13 +67,13 @@ const useFirebase = () => {
       .then((result) => {
         // Signed in
         // setUser(resutl.user);
-        setUser(result);
+        setUser(result.user);
         setUserName();
+        console.log(result.user);
         // ...
       })
       .catch((error) => {
-        const errorCode = error.code;
-        const errorMessage = error.message;
+        setError(error.message);
       });
   };
 

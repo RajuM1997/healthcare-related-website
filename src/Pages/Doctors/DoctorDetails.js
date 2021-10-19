@@ -25,7 +25,7 @@ const DoctorDetails = () => {
           </div>
           <div className="col-md-6">
             <div className="details">
-              <h3 className="py3">{data?.name}</h3>
+              <h3 className="py3">hello {data?.name}</h3>
               <p className="py3">{data?.dec}</p>
             </div>
           </div>

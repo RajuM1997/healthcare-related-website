@@ -8,6 +8,7 @@ import useAuth from "../../../../hooks/useAuth";
 
 const Register = () => {
   const {
+    error,
     handelEmailChange,
     handlePasswordChange,
     handleNameChane,
@@ -17,6 +18,7 @@ const Register = () => {
     <div>
       <>
         <Container className="py-5 login">
+          <h5 className="pb-5">{error}</h5>
           <Row>
             <Col md={5}>
               <Form onSubmit={handleRegistration}>

@@ -24,6 +24,7 @@ const Service = () => {
   return (
     <div className="py-5 home-Service">
       <Container>
+        <h1 className="text-center pb-5">Service</h1>
         <Row lg={3} xs={1} className="g-4">
           {services.slice(0, 6).map((service) => (
             <Col key={service.id}>

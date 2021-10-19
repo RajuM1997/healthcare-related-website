@@ -11,7 +11,7 @@ const Header = () => {
     <Navbar className="navber" variant="dark" sticky="top" expand="lg">
       <Container>
         <Nav.Link as={Link} to="/home" className="text-white">
-          <h3>Bayhealth Clinic</h3>
+          <h3>Cure Health Clinic</h3>
         </Nav.Link>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">

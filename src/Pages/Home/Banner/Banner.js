@@ -14,12 +14,13 @@ const Banner = () => {
   return (
     <div className="banner">
       <div className="container">
-        <div
-          className="banner-title flex-column d-flex justify-content-center align-items-center"
-          data-aos="fade-left"
-        >
-          <h1 className=""> Welcome to Bayhealth Clinic</h1>
-          <h5>Good hospitals always set their patients first</h5>
+        <div className="banner-title" data-aos="fade-left">
+          <div className="main-title">
+            <h1 className=""> Welcome to Bayhealth Clinic</h1>
+          </div>
+          <div className="sub-title">
+            <h5>Good hospitals always set their patients first</h5>
+          </div>
           <div className="btn">
             <button>Call Now</button>
           </div>
