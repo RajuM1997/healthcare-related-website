@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cure Health Clinic
+- visit our website: https://bayhealth-clinic.web.app/home
+- 
 
 ## Available Scripts
 
