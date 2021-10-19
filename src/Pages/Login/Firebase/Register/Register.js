@@ -23,6 +23,7 @@ const Register = () => {
                 <Form.Group className="mb-3" controlId="Name">
                   <Form.Label>Enter your name</Form.Label>
                   <Form.Control
+                    className="input"
                     onBlur={handleNameChane}
                     type="name"
                     placeholder="Enter your name"
@@ -32,6 +33,7 @@ const Register = () => {
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                   <Form.Label>Email address</Form.Label>
                   <Form.Control
+                    className="input"
                     onBlur={handelEmailChange}
                     type="email"
                     placeholder="Enter email"
@@ -42,6 +44,7 @@ const Register = () => {
                 <Form.Group className="mb-3" controlId="formBasicPassword">
                   <Form.Label>Password</Form.Label>
                   <Form.Control
+                    className="input"
                     onBlur={handlePasswordChange}
                     type="password"
                     placeholder="Password"

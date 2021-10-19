@@ -8,9 +8,11 @@ import useAuth from "../../../hooks/useAuth";
 const Header = () => {
   const { user, handleLogOut } = useAuth();
   return (
-    <Navbar className="navber" variant="dark" expand="lg">
+    <Navbar className="navber" variant="dark" sticky="top" expand="lg">
       <Container>
-        <Navbar.Brand href="#">Bayhealth Clinic</Navbar.Brand>
+        <Nav.Link as={Link} to="/home" className="text-white">
+          <h3>Bayhealth Clinic</h3>
+        </Nav.Link>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
