@@ -16,7 +16,7 @@ const Banner = () => {
       <div className="container">
         <div className="banner-title" data-aos="fade-left">
           <div className="main-title">
-            <h1 className=""> Welcome to Bayhealth Clinic</h1>
+            <h1 className=""> Welcome to Cure Health Clinic</h1>
           </div>
           <div className="sub-title">
             <h5>Good hospitals always set their patients first</h5>
