@@ -1,6 +1,15 @@
 # Cure Health Clinic
 - visit our website: https://bayhealth-clinic.web.app/home
-- 
+# 24/7 service 
+- we provide non stop health care service properly
+# e-Services
+- we have e-health care services in emergency through teleconferencing and videoconferencing
+# pre-Booking for doctors appointment 
+- through this website you can pre-book our worldclass do doctors appointment
+# free monthly health care service
+- through this website you will notify free health care for the poor people monthly
+# updated news and equipment related to health
+- we provide up to date health related news and equipment related to health which are always we committed to
 
 ## Available Scripts
 
