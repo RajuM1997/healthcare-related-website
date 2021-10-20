@@ -13,14 +13,14 @@ const Testimonial = () => {
   });
   return (
     <div className="testimonial pb-5">
-      <h1 className="text-center p-5">Explore our testimonials</h1>
+      <h1 className="text-center title p-5">Explore our testimonials</h1>
       <div className="container">
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col" data-aos="fade-right">
             <div className="card h-100">
               <img
                 src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
-                className="d-block"
+                className="d-block img-fluid"
                 alt="..."
               />
               <div className="card-body">
@@ -46,7 +46,7 @@ const Testimonial = () => {
             <div className="card h-100">
               <img
                 src="https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
-                className="d-block"
+                className="d-block img-fluid"
                 alt="..."
               />
               <div className="card-body">
@@ -72,7 +72,7 @@ const Testimonial = () => {
             <div className="card h-100">
               <img
                 src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=464&q=80"
-                className="d-block"
+                className="d-block img-fluid"
                 alt="..."
               />
               <div className="card-body">

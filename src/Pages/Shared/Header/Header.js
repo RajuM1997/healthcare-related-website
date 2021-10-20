@@ -9,7 +9,7 @@ const Header = () => {
   const { user, handleLogOut } = useAuth();
   return (
     <Navbar className="navber" variant="dark" sticky="top" expand="lg">
-      <Container>
+      <Container fluid>
         <Nav.Link as={Link} to="/home" className="text-white">
           <h3>Cure Health Clinic</h3>
         </Nav.Link>

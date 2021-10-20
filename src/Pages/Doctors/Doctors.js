@@ -23,8 +23,8 @@ const Doctors = () => {
   return (
     <div>
       <Container className="py-5 home-Service">
-        <div className="title text-center pb-5">
-          <h1>OUR DOCTORS</h1>
+        <div className="text-center pb-5">
+          <h1 className="title">OUR DOCTORS</h1>
           <h5>
             Our doctors are specialized in their field and have more than 10
             years of experiences.

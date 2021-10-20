@@ -1,0 +1,139 @@
+.gallery {
+    background: rgb(235, 229, 229);
+}
+
+.img-1 {
+    min-width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.img-1 img {
+    min-width: 300px;
+    height: 300px;
+    transition: all 0.5s;
+}
+
+.img-1 img:hover {
+    transform: scale(1.09);
+}
+
+.img-2 {
+    min-width: 300px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.img-2 img {
+    min-width: 300px;
+    height: 400px;
+    transition: all 0.5s;
+}
+
+.img-2 img:hover {
+    transform: scale(1.09);
+}
+
+.img-3 {
+    min-width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.img-3 img {
+    min-width: 300px;
+    height: 300px;
+    transition: all 0.5s;
+}
+
+.img-3 img:hover {
+    transform: scale(1.09);
+}
+
+.img-4 {
+    min-width: 300px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.img-4 img {
+    min-width: 300px;
+    height: 400px;
+    transition: all 0.5s;
+}
+
+.img-4 img:hover {
+    transform: scale(1.09);
+}
+
+.img-5 {
+    min-width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.img-5 img {
+    min-width: 300px;
+    height: 300px;
+    transition: all 0.5s;
+}
+
+.img-5 img:hover {
+    transform: scale(1.09);
+}
+
+.img-6 {
+    min-width: 300px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.img-6 img {
+    min-width: 300px;
+    height: 400px;
+    transition: all 0.5s;
+}
+
+.img-6 img:hover {
+    transform: scale(1.09);
+}
+
+
+.img-7 {
+    min-width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.img-7 img {
+    min-width: 300px;
+    height: 300px;
+    transition: all 0.5s;
+}
+
+
+.img-7 img:hover {
+    transform: scale(1.09);
+}
+
+.img-8 {
+    min-width: 300px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.img-8 img {
+    min-width: 300px;
+    height: 400px;
+    transition: all 0.5s;
+}
+
+.img-8 img:hover {
+    transform: scale(1.09);
+}
+
+.img-9 img {
+    min-width: 356px;
+    height: 300px;
+    margin-top: 19px;
+}

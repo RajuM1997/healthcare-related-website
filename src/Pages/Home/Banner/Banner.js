@@ -12,17 +12,17 @@ const Banner = () => {
     });
   });
   return (
-    <div className="banner">
+    <div className="banner-section">
       <div className="container">
-        <div className="banner-title" data-aos="fade-left">
-          <div className="main-title">
-            <h1 className=""> Welcome to Cure Health Clinic</h1>
-          </div>
-          <div className="sub-title">
-            <h5>Good hospitals always set their patients first</h5>
-          </div>
-          <div className="btn">
-            <button>Call Now</button>
+        <div className="row">
+          <div className="col-md-12 banner-main " data-aos="fade-left">
+            <div className="pb-3">
+              <h1> Welcome to Cure Health Clinic</h1>
+              <div className="text-center">
+                <small>Good hospitals always set their patients first</small>
+              </div>
+            </div>
+            <button className="call-btn">Call Now</button>
           </div>
         </div>
       </div>

@@ -24,9 +24,9 @@ const ServiceHome = () => {
     });
   });
   return (
-    <div className="py-5 home-Service">
+    <div className="py-5 service">
       <Container>
-        <h1 className="text-center pb-5">Services</h1>
+        <h1 className="text-center title pb-5">Services</h1>
         <Row lg={3} xs={1} className="g-4">
           {services.slice(0, 6).map((service) => (
             <Col key={service.id}>

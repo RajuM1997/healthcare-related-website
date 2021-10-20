@@ -6,10 +6,6 @@ body {
     background: rgba(89, 0, 255, 0.897) !important;
 }
 
-a {
-    text-decoration: none;
-}
-
 .navber a {
     color: #fff;
 }

@@ -62,8 +62,6 @@ const Footer = () => {
             </div>
           </div>
         </div>
-      </div>
-      <div className="container">
         <div className="copy-right">
           <div className="row">
             <div className="col-md-7">

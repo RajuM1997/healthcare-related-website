@@ -25,7 +25,7 @@ const Blog = () => {
               <Card className="news">
                 <Card.Img
                   variant="top"
-                  className="card-image"
+                  className="card-image img-fluid"
                   src="https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=876&q=80"
                 />
                 <Card.Body>
@@ -52,7 +52,7 @@ const Blog = () => {
               <Card className="news">
                 <Card.Img
                   variant="top"
-                  className="card-image"
+                  className="card-image img-fluid"
                   src="https://images.unsplash.com/photo-1517120026326-d87759a7b63b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
                 />
                 <Card.Body>
@@ -79,8 +79,8 @@ const Blog = () => {
               <Card className="news">
                 <Card.Img
                   variant="top"
-                  className="card-image"
-                  src="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=891&q=80"
+                  className="card-image img-fluid"
+                  src="https://images.unsplash.com/photo-1579684453423-f84349ef60b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=891&q=80 "
                 />
                 <Card.Body>
                   <Card.Title>Maecenas faucibus sceisque</Card.Title>
